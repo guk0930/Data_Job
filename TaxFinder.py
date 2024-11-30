@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 
-
 #--<1. 주소 형식 통일>--
 
 # Load the 'tax' Excel file
